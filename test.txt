@@ -1,0 +1,5 @@
+
+start -- git init
+see status -- git status
+add file -- git add fileName
+add all -- git add .
